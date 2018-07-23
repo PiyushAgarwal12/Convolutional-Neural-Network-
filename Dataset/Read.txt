@@ -1,0 +1,1 @@
+Distribute the dataset in the same manner as shown here. Since it is a sample for binary image recognition, it will suit for all.
